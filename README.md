@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ajfeldman6
 - 👀 I’m interested in python, machine learning, cyber security, and data science
 - 🌱 I’m continually learning more about each of these
-- 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I also enjoy cooking and walking and cycling (only on a NordicTrack)
 
